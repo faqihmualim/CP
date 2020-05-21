@@ -22,8 +22,8 @@ int main() // Main Program for Codeforces
 	cin.tie(0);
 	int t;
 	cin >> t;
-	while (t--);
-	test_case;
+	while (t--)
+		test_case;
 
 return 0;
 }
