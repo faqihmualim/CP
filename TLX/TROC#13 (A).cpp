@@ -1,4 +1,4 @@
-// Toki Regular Open Contest #13 Problem (A)
+// Toki Regular Open Contest #13 Problem (A) https://tlx.toki.id/problems/troc-13/A
 #include <bits/stdc++.h>
 #include <string>
 
